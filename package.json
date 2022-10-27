@@ -1,0 +1,29 @@
+{
+  "name": "mptestbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortnite-Multiplayer/Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fortnite-Multiplayer/Backend/issues"
+  },
+  "homepage": "https://github.com/Fortnite-Multiplayer/Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
